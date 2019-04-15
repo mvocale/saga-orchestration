@@ -3,14 +3,14 @@ This project is an example of Saga orchestration implementation using Eclipse Mi
 
 It created five different components:
 
-- Three microservices:
--- Ticket
--- Insurance
--- Payment
-- Eclipse Microprofile LRA coordinator:
--- Narayana
--- An API Gateway that orchestrates the invocation of the microservices and interacts with the LRA coordinator:
--- Booking client
+* Three microservices:
+  * Ticket
+  * Insurance
+  * Payment
+* Eclipse Microprofile LRA coordinator:
+  * Narayana
+  * An API Gateway that orchestrates the invocation of the microservices and interacts with the LRA coordinator:
+  * Booking client
 
 # Requirements
 
