@@ -119,3 +119,6 @@ End Test Saga
 
 All the state of the entity should be `AVAILABLE` or `REFUSED`
 
+## WARNING
+Pay attention that the two built in examples are not idempotent: use them as scaffold for other test or change at least the orderId value
+
