@@ -9,7 +9,7 @@ It created five different components:
   * Payment
 * Eclipse Microprofile LRA coordinator:
   * Narayana
-  * An API Gateway that orchestrates the invocation of the microservices and interacts with the LRA coordinator:
+* An API Gateway that orchestrates the invocation of the microservices and interacts with the LRA coordinator:
   * Booking client
 
 # Requirements
