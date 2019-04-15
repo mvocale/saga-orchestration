@@ -83,6 +83,7 @@ All the state of the entity should be `BOOKED` or `ACCEPTED`
 - Test of FAIL SAGA:
 ```sh
 $ ./test-saga-failed.sh
+```
 
 You should expect a result lile this
 ```sh
